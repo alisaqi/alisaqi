@@ -3,12 +3,12 @@
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Ali's Website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<a href="https://twitter.com/itsalisaqi">
+<!-- <a href="https://twitter.com/itsalisaqi">
   <img align="left" alt="Ali's Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alisaqi/">
+</a> -->
+<!-- <a href="https://www.linkedin.com/in/alisaqi/">
   <img align="left" alt="Ali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 <!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Ali's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
