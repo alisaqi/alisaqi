@@ -16,11 +16,9 @@
 
 ---
 
-- Hi, I’m Ali Saqi. I recently graduated from the Ferdowsi University of Mashhad.
+- Hi, I’m Ali.
 - 👀 I’m interested in Machine Learning, Finance, and Supply Chain.
-- 🌱 My Current Plan is to Continue my Graduate Education for a Master degree.
 - 💞️ I’m looking to collaborate on research conducted in the fields of finance, machine learning, and supply chain.
-- 📫 You can contact me via my Email : alisaghi0931@gmail.com
 
 <!---
 alisaqi/alisaqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
