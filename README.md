@@ -1,4 +1,9 @@
-###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+<h1>Hi 👋, I'm Ali</h1>
+
+- Hi, I’m Ali.
+- 👀 I’m interested in Machine Learning, Finance, and Supply Chain.
+- 💞️ I’m looking to collaborate on research conducted in the fields of finance, machine learning, and supply chain.
+
 
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Ali's Website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -13,12 +18,15 @@
   <img align="left" alt="Ali's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
  -->
+<hr>
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisaqi&theme=vue)
 
-- Hi, I’m Ali.
-- 👀 I’m interested in Machine Learning, Finance, and Supply Chain.
-- 💞️ I’m looking to collaborate on research conducted in the fields of finance, machine learning, and supply chain.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisaqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
 
 <!---
 alisaqi/alisaqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
