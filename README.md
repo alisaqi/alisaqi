@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Ali</h1>
 
-- Hi, I’m Ali.
 - 👀 I’m interested in Machine Learning, Finance, and Supply Chain.
 - 💞️ I’m looking to collaborate on research conducted in the fields of finance, machine learning, and supply chain.
 
