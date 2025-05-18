@@ -1,9 +1,3 @@
-<h1>Hi 👋, I'm Ali</h1>
-
-- 👀 I’m interested in Machine Learning, Finance, and Supply Chain.
-- 💞️ I’m looking to collaborate on research conducted in the fields of finance, machine learning, and supply chain.
-
-
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Ali's Website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
